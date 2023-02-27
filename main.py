@@ -3,7 +3,7 @@ import scapy.all as scapy
 
 class ARPPing():
     def __init__(self):
-        print("ARPPing çalıştı...")
+        print("ARPPing started...")
 
 
     def get_user_input(self):
